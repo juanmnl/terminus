@@ -52,7 +52,7 @@ function initMachine() {
           '...',
           '...',
           '<small><span class="warning">Warning: ** This site is a prototype **^500</span></small>',
-          '<small>Motto: <span class="ok">Observe. Learn. Adapt.</span><br>Work: <span class="ok">Remote</span><br>Job: <span class="ok">UI Designer @huridocs</span><br>Tools: <span class="ok">Paper - Figma - Browser - Code</span><br>Languages: <span class="ok">HTML - CSS - JS <i>(Vanilla, jQuery – React)</i></span><br>Previous work: <span class="ok">Clevertech 2018/21 - Thoughworks 2016/18 - Freelance 2013/16 - and many more...</span></small><br>'
+          '<small>Motto: <span class="ok">Observe. Learn. Adapt.</span><br>Work: <span class="ok">Remote</span><br>Job: <span class="ok">UI Designer @huridocs</span><br>Tools: <span class="ok">Figma - HTML - CSS - JS</span><br>Languages: <span class="ok">ES - FR - EN - PT.</i></span><br>Previous work: <span class="ok">Clevertech 2018/21 - Thoughworks 2016/18 - Freelance 2013/16 - and many more...</span></small><br>'
         ],
         showCursor: false,
         contentType: 'html'
