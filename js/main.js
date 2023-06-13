@@ -52,7 +52,7 @@ function initMachine() {
           '...',
           '...',
           '<small><span class="warning">Warning: ** This site is a prototype **^500</span></small>',
-          '<small>Motto: <span class="ok">Observe. Learn. Adapt.</span><br>Work: <span class="ok">Remote</span><br>Job: <span class="ok">UI Designer @huridocs</span><br>Tools: <span class="ok">Figma - HTML - CSS - JS</span><br>Languages: <span class="ok">ES - FR - EN - PT.</i></span><br>Previous work: <span class="ok">Clevertech 2018/21 - Thoughworks 2016/18 - Freelance 2013/16 - and many more...</span></small><br>'
+          '<small>Flow: <span class="ok">Observe. Learn. Adapt.</span><br>Work type: <span class="ok">Remote</span><br>Job: <span class="ok">Lead UX/UI Designer @huridocs</span><br>Tools: <span class="ok">Figma - HTML - CSS - JS</span><br>Languages: <span class="ok">ES - FR - EN - PT.</i></span><br>Previous work: <span class="ok">Clevertech 2018/21 - Thoughworks 2016/18 - Freelance 2013/16 - and many more...</span></small><br>'
         ],
         showCursor: false,
         contentType: 'html'
@@ -85,7 +85,7 @@ function initMachine() {
       strings: [
         'Hello there! :)',
         'How are you?',
-        "I'm Juan Manuel Cornejo and I'm a GUI/IxD designer.<br>I currently work for <a href='https://huridocs.org/' target='_blank'>HURIDOCS</a> from Quito, Ecuador. <small>(0.2333° S, 78.5167° W – UTC/GMT -5)</small><br><br>I love building things for the web. My main interests are:<br><br>- HCI RESEARCH and DEVELOPMENT<br>- GUI/IxD DESIGN<br>- PRODUCT CONCEPTUALIZATION and DESIGN<br>- PROTOTYPE DEVELOPMENT<br>- UI ENGINEERING<br><br><small>This is part of an UI research I started a long time ago, and I'm currently reviving it.</small><br><br>I also love <a href='https://www.rarbbit.com/' target='_blank'>photography</a> (mostly portraits and documenting the mundane).<br><br>If you want to get in touch, please contact me on twitter, instagram<br>or throw me an email juanmnl@me.com<br><br>Thank you for stopping by!<br><br>:P<br><br>– Juanmnl"
+        "I'm Juan Manuel Cornejo and I'm a GUI/IxD designer.<br>I currently work for <a href='https://huridocs.org/' target='_blank'>HURIDOCS</a> from Quito, Ecuador. <small>(0.2333° S, 78.5167° W – UTC/GMT -5)</small><br><br>I love building things for the web, and I'm constantly leanrning new things.<br><br>- HCI RESEARCH &amp; DEVELOPMENT<br>- GUI/IxD DESIGN<br>- PRODUCT CONCEPTUALIZATION &amp; DESIGN<br>- PROTOTYPE DESIGN &amp; DEVELOPMENT<br>- SCALABLE, NON-DETERMINISTIC UI's<br>- ML TOOLING<br><br>I'm currently moving my portfolio from dribble (yes I'm old!) to <a href='https://www.behance.com/juanmnlcornejo'>behance</a>.<br>Please understand that most of my work, from the previous 7 years, has been<br>under NDA's. I'm trying to put most of it out there.<br><br>I also love <a href='https://www.rarbbit.com/' target='_blank'>photography</a> (I just started my first series, check it out!).<br><br>If you want to get in touch, please contact me on twitter, instagram<br>or throw me an email juanmnlcornejo@gmail.com<br><br>Thank you for stopping by!<br><br>:P<br><br>– Juanmnl<br><br><small>*Try the 'turn off' button, I worked really hard to make it look like an old CRT screen.</small>"
       ],
       contentType: 'html',
       loop: false,

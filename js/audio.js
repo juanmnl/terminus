@@ -2,9 +2,9 @@ var context = new AudioContext();
 
 var initNote = function () {
   var osc = context.createOscillator(),
-      volume = context.createGain();
+    volume = context.createGain();
 
-  volume.gain.value = 0.25;
+  volume.gain.value = 0.2;
 
   osc.frequency.value = 880;
   osc.type = 'square';
